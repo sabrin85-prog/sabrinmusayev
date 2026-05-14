@@ -27,7 +27,7 @@ I'm a passionate mobile developer focused on building intuitive, high-performanc
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrin85-prog&show_icons=true&theme=radium&hide_border=true" alt="Sabrin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabrinmusayev&show_icons=true&theme=radium&hide_border=true" alt="Sabrin's GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
