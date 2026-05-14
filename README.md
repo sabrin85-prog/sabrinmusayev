@@ -1,4 +1,3 @@
-# sabrinmusayev
 # Hi there, I'm Sabrin 👋
 
 **🚀 Mobile Application Developer | Flutter Enthusiast**
@@ -27,12 +26,12 @@ I'm a passionate mobile developer focused on building intuitive, high-performanc
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrinmusayev&show_icons=true&theme=radium&hide_border=true" alt="Sabrin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabrinmusayev&show_icons=true&theme=radium&hide_border=true&v=2" alt="Sabrin's GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
-- **LinkedIn:** [https://www.linkedin.com/in/sabrin-musayev-2826071a9/](#)
-- **Email:** sabrin_85@icloud.com
+- **LinkedIn:** [Sabrin Musayev](https://www.linkedin.com/in/sabrin-musayev-2826071a9/)
+- **Email:** [sabrin_85@icloud.com](mailto:sabrin_85@icloud.com)
 
 ---
 *“Good code is its own best documentation.”*
